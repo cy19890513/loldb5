@@ -100,12 +100,16 @@ NSMutableArray *goodAgainstChampions;
 		return [badAgainstChampions count];
     else
         return [goodAgainstChampions count];
+    return 1;
 }
 
 
 //TODO: do something like this for goodAgainstChampion
 - (UICollectionViewCell *)collectionView:(UICollectionView *)cv cellForItemAtIndexPath:(NSIndexPath *)indexPath;
 {
+    
+    //UICollectionViewCell *cell = [cv dequeueReusableCellWithReuseIdentifier:@"cell2" forIndexPath:indexPath];
+    
     // we're going to use a custom UICollectionViewCell, which will hold an image and its label
     //
     if(cv==self.badAgainstCV)
@@ -141,8 +145,8 @@ NSMutableArray *goodAgainstChampions;
         
         return cell;
     }
-
-    
+    //return cell;
+    return NULL;
 }
 
 
