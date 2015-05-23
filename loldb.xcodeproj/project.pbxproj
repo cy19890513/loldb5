@@ -7,6 +7,130 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		68B4571C1B1001D2007A826C /* Aatrox.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B456FE1B1001D2007A826C /* Aatrox.jpg */; };
+		68B4571D1B1001D2007A826C /* Ahri.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B456FF1B1001D2007A826C /* Ahri.jpg */; };
+		68B4571E1B1001D2007A826C /* Akali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457001B1001D2007A826C /* Akali.jpg */; };
+		68B4571F1B1001D2007A826C /* Alistar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457011B1001D2007A826C /* Alistar.jpg */; };
+		68B457201B1001D2007A826C /* Amumu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457021B1001D2007A826C /* Amumu.jpg */; };
+		68B457211B1001D2007A826C /* Anivia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457031B1001D2007A826C /* Anivia.jpg */; };
+		68B457221B1001D2007A826C /* Annie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457041B1001D2007A826C /* Annie.jpg */; };
+		68B457231B1001D2007A826C /* Ashe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457051B1001D2007A826C /* Ashe.jpg */; };
+		68B457241B1001D2007A826C /* Azir.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457061B1001D2007A826C /* Azir.jpg */; };
+		68B457251B1001D2007A826C /* Bard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457071B1001D2007A826C /* Bard.jpg */; };
+		68B457261B1001D2007A826C /* Blitzcrank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457081B1001D2007A826C /* Blitzcrank.jpg */; };
+		68B457271B1001D2007A826C /* Brand.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457091B1001D2007A826C /* Brand.jpg */; };
+		68B457281B1001D2007A826C /* Braum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4570A1B1001D2007A826C /* Braum.jpg */; };
+		68B457291B1001D2007A826C /* Caitlyn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4570B1B1001D2007A826C /* Caitlyn.jpg */; };
+		68B4572A1B1001D2007A826C /* Cassiopeia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4570C1B1001D2007A826C /* Cassiopeia.jpg */; };
+		68B4572B1B1001D2007A826C /* Cho'Gath.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4570D1B1001D2007A826C /* Cho'Gath.jpg */; };
+		68B4572C1B1001D2007A826C /* Corki.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4570E1B1001D2007A826C /* Corki.jpg */; };
+		68B4572D1B1001D2007A826C /* Darius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4570F1B1001D2007A826C /* Darius.jpg */; };
+		68B4572E1B1001D2007A826C /* Diana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457101B1001D2007A826C /* Diana.jpg */; };
+		68B4572F1B1001D2007A826C /* Dr.Mundo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457111B1001D2007A826C /* Dr.Mundo.jpg */; };
+		68B457301B1001D2007A826C /* Draven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457121B1001D2007A826C /* Draven.jpg */; };
+		68B457311B1001D2007A826C /* Elise.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457131B1001D2007A826C /* Elise.jpg */; };
+		68B457321B1001D2007A826C /* Evelynn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457141B1001D2007A826C /* Evelynn.jpg */; };
+		68B457331B1001D2007A826C /* Ezreal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457151B1001D2007A826C /* Ezreal.jpg */; };
+		68B457341B1001D2007A826C /* Fiddlesticks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457161B1001D2007A826C /* Fiddlesticks.jpg */; };
+		68B457351B1001D2007A826C /* Fiora.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457171B1001D2007A826C /* Fiora.jpg */; };
+		68B457361B1001D2007A826C /* Fizz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457181B1001D2007A826C /* Fizz.jpg */; };
+		68B457371B1001D2007A826C /* Galio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457191B1001D2007A826C /* Galio.jpg */; };
+		68B457381B1001D2007A826C /* Gangplank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4571A1B1001D2007A826C /* Gangplank.jpg */; };
+		68B457391B1001D2007A826C /* Garen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4571B1B1001D2007A826C /* Garen.jpg */; };
+		68B457571B10025C007A826C /* Gargas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4573A1B10025C007A826C /* Gargas.jpg */; };
+		68B457581B10025C007A826C /* Gnar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4573B1B10025C007A826C /* Gnar.jpg */; };
+		68B457591B10025C007A826C /* Graves.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4573C1B10025C007A826C /* Graves.jpg */; };
+		68B4575A1B10025C007A826C /* Hecarim.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4573D1B10025C007A826C /* Hecarim.jpg */; };
+		68B4575B1B10025C007A826C /* Heimerdinger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4573E1B10025C007A826C /* Heimerdinger.jpg */; };
+		68B4575C1B10025C007A826C /* Irelia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4573F1B10025C007A826C /* Irelia.jpg */; };
+		68B4575D1B10025C007A826C /* Janna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457401B10025C007A826C /* Janna.jpg */; };
+		68B4575E1B10025C007A826C /* Jarven IV.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457411B10025C007A826C /* Jarven IV.jpg */; };
+		68B4575F1B10025C007A826C /* Jax.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457421B10025C007A826C /* Jax.jpg */; };
+		68B457601B10025C007A826C /* Jayce.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457431B10025C007A826C /* Jayce.jpg */; };
+		68B457611B10025C007A826C /* Jinx.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457441B10025C007A826C /* Jinx.jpg */; };
+		68B457621B10025C007A826C /* Kalista.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457451B10025C007A826C /* Kalista.jpg */; };
+		68B457631B10025C007A826C /* Karma.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457461B10025C007A826C /* Karma.jpg */; };
+		68B457641B10025C007A826C /* Karthus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457471B10025C007A826C /* Karthus.jpg */; };
+		68B457651B10025C007A826C /* Kassadin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457481B10025C007A826C /* Kassadin.jpg */; };
+		68B457661B10025C007A826C /* Katarina.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457491B10025C007A826C /* Katarina.jpg */; };
+		68B457671B10025C007A826C /* Kayle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4574A1B10025C007A826C /* Kayle.jpg */; };
+		68B457681B10025C007A826C /* Kennen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4574B1B10025C007A826C /* Kennen.jpg */; };
+		68B457691B10025C007A826C /* Kha'Zix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4574C1B10025C007A826C /* Kha'Zix.jpg */; };
+		68B4576A1B10025C007A826C /* Kog'Maw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4574D1B10025C007A826C /* Kog'Maw.jpg */; };
+		68B4576B1B10025C007A826C /* LeBlanc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4574E1B10025C007A826C /* LeBlanc.jpg */; };
+		68B4576C1B10025C007A826C /* Lee Sin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4574F1B10025C007A826C /* Lee Sin.jpg */; };
+		68B4576D1B10025C007A826C /* Leona.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457501B10025C007A826C /* Leona.jpg */; };
+		68B4576E1B10025C007A826C /* Lissandra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457511B10025C007A826C /* Lissandra.jpg */; };
+		68B4576F1B10025C007A826C /* Lucian.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457521B10025C007A826C /* Lucian.jpg */; };
+		68B457701B10025C007A826C /* Lulu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457531B10025C007A826C /* Lulu.jpg */; };
+		68B457711B10025C007A826C /* Lux.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457541B10025C007A826C /* Lux.jpg */; };
+		68B457721B10025C007A826C /* Malphite.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457551B10025C007A826C /* Malphite.jpg */; };
+		68B457731B10025C007A826C /* Malzahar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457561B10025C007A826C /* Malzahar.jpg */; };
+		68B457911B100271007A826C /* Maokai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457741B100271007A826C /* Maokai.jpg */; };
+		68B457921B100271007A826C /* Master Yi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457751B100271007A826C /* Master Yi.jpg */; };
+		68B457931B100271007A826C /* Miss Fortune.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457761B100271007A826C /* Miss Fortune.jpg */; };
+		68B457941B100271007A826C /* Mordekaiser.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457771B100271007A826C /* Mordekaiser.jpg */; };
+		68B457951B100271007A826C /* Morgana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457781B100271007A826C /* Morgana.jpg */; };
+		68B457961B100271007A826C /* Nami.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457791B100271007A826C /* Nami.jpg */; };
+		68B457971B100271007A826C /* Nasus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4577A1B100271007A826C /* Nasus.jpg */; };
+		68B457981B100271007A826C /* Nautilus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4577B1B100271007A826C /* Nautilus.jpg */; };
+		68B457991B100271007A826C /* Nidalee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4577C1B100271007A826C /* Nidalee.jpg */; };
+		68B4579A1B100271007A826C /* Nocturne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4577D1B100271007A826C /* Nocturne.jpg */; };
+		68B4579B1B100271007A826C /* Nunu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4577E1B100271007A826C /* Nunu.jpg */; };
+		68B4579C1B100271007A826C /* Olaf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4577F1B100271007A826C /* Olaf.jpg */; };
+		68B4579D1B100271007A826C /* Orianna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457801B100271007A826C /* Orianna.jpg */; };
+		68B4579E1B100271007A826C /* Patheon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457811B100271007A826C /* Patheon.jpg */; };
+		68B4579F1B100271007A826C /* Poppy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457821B100271007A826C /* Poppy.jpg */; };
+		68B457A01B100271007A826C /* Quinn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457831B100271007A826C /* Quinn.jpg */; };
+		68B457A11B100271007A826C /* Rammus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457841B100271007A826C /* Rammus.jpg */; };
+		68B457A21B100271007A826C /* Rek'Sai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457851B100271007A826C /* Rek'Sai.jpg */; };
+		68B457A31B100271007A826C /* Renekton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457861B100271007A826C /* Renekton.jpg */; };
+		68B457A41B100271007A826C /* Rengar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457871B100271007A826C /* Rengar.jpg */; };
+		68B457A51B100271007A826C /* Riven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457881B100271007A826C /* Riven.jpg */; };
+		68B457A61B100271007A826C /* Rumble.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457891B100271007A826C /* Rumble.jpg */; };
+		68B457A71B100271007A826C /* Ryze.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4578A1B100271007A826C /* Ryze.jpg */; };
+		68B457A81B100271007A826C /* Sejuani.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4578B1B100271007A826C /* Sejuani.jpg */; };
+		68B457A91B100271007A826C /* Shaco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4578C1B100271007A826C /* Shaco.jpg */; };
+		68B457AA1B100271007A826C /* Shen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4578D1B100271007A826C /* Shen.jpg */; };
+		68B457AB1B100271007A826C /* Shyvana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4578E1B100271007A826C /* Shyvana.jpg */; };
+		68B457AC1B100271007A826C /* Singed.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4578F1B100271007A826C /* Singed.jpg */; };
+		68B457AD1B100271007A826C /* Sion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457901B100271007A826C /* Sion.jpg */; };
+		68B457D21B100287007A826C /* Sivir.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457AE1B100287007A826C /* Sivir.jpg */; };
+		68B457D31B100287007A826C /* Skamer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457AF1B100287007A826C /* Skamer.jpg */; };
+		68B457D41B100287007A826C /* Sona.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B01B100287007A826C /* Sona.jpg */; };
+		68B457D51B100287007A826C /* Soraka.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B11B100287007A826C /* Soraka.jpg */; };
+		68B457D61B100287007A826C /* Swain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B21B100287007A826C /* Swain.jpg */; };
+		68B457D71B100287007A826C /* Syndra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B31B100287007A826C /* Syndra.jpg */; };
+		68B457D81B100287007A826C /* Talon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B41B100287007A826C /* Talon.jpg */; };
+		68B457D91B100287007A826C /* Taric.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B51B100287007A826C /* Taric.jpg */; };
+		68B457DA1B100287007A826C /* Teemo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B61B100287007A826C /* Teemo.jpg */; };
+		68B457DB1B100287007A826C /* Thresh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B71B100287007A826C /* Thresh.jpg */; };
+		68B457DC1B100287007A826C /* Trstana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B81B100287007A826C /* Trstana.jpg */; };
+		68B457DD1B100287007A826C /* Trundle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457B91B100287007A826C /* Trundle.jpg */; };
+		68B457DE1B100287007A826C /* Twisted Fate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457BA1B100287007A826C /* Twisted Fate.jpg */; };
+		68B457DF1B100287007A826C /* Twitch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457BB1B100287007A826C /* Twitch.jpg */; };
+		68B457E01B100287007A826C /* Tydamere.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457BC1B100287007A826C /* Tydamere.jpg */; };
+		68B457E11B100287007A826C /* Udyr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457BD1B100287007A826C /* Udyr.jpg */; };
+		68B457E21B100287007A826C /* Urgot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457BE1B100287007A826C /* Urgot.jpg */; };
+		68B457E31B100287007A826C /* Varus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457BF1B100287007A826C /* Varus.jpg */; };
+		68B457E41B100287007A826C /* Vayne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C01B100287007A826C /* Vayne.jpg */; };
+		68B457E51B100287007A826C /* Veigar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C11B100287007A826C /* Veigar.jpg */; };
+		68B457E61B100287007A826C /* Vel'Koz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C21B100287007A826C /* Vel'Koz.jpg */; };
+		68B457E71B100287007A826C /* Vi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C31B100287007A826C /* Vi.jpg */; };
+		68B457E81B100287007A826C /* Viktor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C41B100287007A826C /* Viktor.jpg */; };
+		68B457E91B100287007A826C /* Vladimir.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C51B100287007A826C /* Vladimir.jpg */; };
+		68B457EA1B100287007A826C /* Volibear.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C61B100287007A826C /* Volibear.jpg */; };
+		68B457EB1B100287007A826C /* Warwick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C71B100287007A826C /* Warwick.jpg */; };
+		68B457EC1B100287007A826C /* Wukong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C81B100287007A826C /* Wukong.jpg */; };
+		68B457ED1B100287007A826C /* Xerath.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457C91B100287007A826C /* Xerath.jpg */; };
+		68B457EE1B100287007A826C /* Xin Zhao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457CA1B100287007A826C /* Xin Zhao.jpg */; };
+		68B457EF1B100287007A826C /* Yasuo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457CB1B100287007A826C /* Yasuo.jpg */; };
+		68B457F01B100287007A826C /* Yorick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457CC1B100287007A826C /* Yorick.jpg */; };
+		68B457F11B100287007A826C /* Zac.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457CD1B100287007A826C /* Zac.jpg */; };
+		68B457F21B100287007A826C /* Zed.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457CE1B100287007A826C /* Zed.jpg */; };
+		68B457F31B100287007A826C /* Ziggs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457CF1B100287007A826C /* Ziggs.jpg */; };
+		68B457F41B100287007A826C /* Zilean.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457D01B100287007A826C /* Zilean.jpg */; };
+		68B457F51B100287007A826C /* Zyra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B457D11B100287007A826C /* Zyra.jpg */; };
 		68F02B771B0FB7F400A24651 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68F02B761B0FB7F400A24651 /* main.m */; };
 		68F02B7A1B0FB7F400A24651 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68F02B791B0FB7F400A24651 /* AppDelegate.m */; };
 		68F02B7D1B0FB7F400A24651 /* loldb.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 68F02B7B1B0FB7F400A24651 /* loldb.xcdatamodeld */; };
@@ -21,16 +145,6 @@
 		68F02BB21B0FB9AA00A24651 /* CollectionView-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BA61B0FB9AA00A24651 /* CollectionView-Info.plist */; };
 		68F02BB31B0FB9AA00A24651 /* CustomCellBackground.m in Sources */ = {isa = PBXBuildFile; fileRef = 68F02BA91B0FB9AA00A24651 /* CustomCellBackground.m */; };
 		68F02BB41B0FB9AA00A24651 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68F02BAB1B0FB9AA00A24651 /* DetailViewController.m */; };
-		68F02BCB1B0FBC4C00A24651 /* annie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC11B0FBC4C00A24651 /* annie.jpg */; };
-		68F02BCC1B0FBC4C00A24651 /* braum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC21B0FBC4C00A24651 /* braum.jpg */; };
-		68F02BCD1B0FBC4C00A24651 /* fiddlestick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC31B0FBC4C00A24651 /* fiddlestick.jpg */; };
-		68F02BCE1B0FBC4C00A24651 /* gangplank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC41B0FBC4C00A24651 /* gangplank.jpg */; };
-		68F02BCF1B0FBC4C00A24651 /* gargas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC51B0FBC4C00A24651 /* gargas.jpg */; };
-		68F02BD01B0FBC4C00A24651 /* heimerdinger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC61B0FBC4C00A24651 /* heimerdinger.jpg */; };
-		68F02BD11B0FBC4C00A24651 /* nasus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC71B0FBC4C00A24651 /* nasus.jpg */; };
-		68F02BD21B0FBC4C00A24651 /* nidalee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC81B0FBC4C00A24651 /* nidalee.jpg */; };
-		68F02BD31B0FBC4C00A24651 /* udyr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BC91B0FBC4C00A24651 /* udyr.jpg */; };
-		68F02BD41B0FBC4C00A24651 /* xinzhao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BCA1B0FBC4C00A24651 /* xinzhao.jpg */; };
 		68F02BDA1B0FBC5400A24651 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BD51B0FBC5400A24651 /* Default-568h@2x.png */; };
 		68F02BDB1B0FBC5400A24651 /* Default-Landscape@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BD61B0FBC5400A24651 /* Default-Landscape@2x.png */; };
 		68F02BDC1B0FBC5400A24651 /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 68F02BD71B0FBC5400A24651 /* Default-Landscape@2x~ipad.png */; };
@@ -54,6 +168,130 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		68B456FE1B1001D2007A826C /* Aatrox.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aatrox.jpg; sourceTree = "<group>"; };
+		68B456FF1B1001D2007A826C /* Ahri.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ahri.jpg; sourceTree = "<group>"; };
+		68B457001B1001D2007A826C /* Akali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Akali.jpg; sourceTree = "<group>"; };
+		68B457011B1001D2007A826C /* Alistar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Alistar.jpg; sourceTree = "<group>"; };
+		68B457021B1001D2007A826C /* Amumu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Amumu.jpg; sourceTree = "<group>"; };
+		68B457031B1001D2007A826C /* Anivia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Anivia.jpg; sourceTree = "<group>"; };
+		68B457041B1001D2007A826C /* Annie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Annie.jpg; sourceTree = "<group>"; };
+		68B457051B1001D2007A826C /* Ashe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ashe.jpg; sourceTree = "<group>"; };
+		68B457061B1001D2007A826C /* Azir.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Azir.jpg; sourceTree = "<group>"; };
+		68B457071B1001D2007A826C /* Bard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bard.jpg; sourceTree = "<group>"; };
+		68B457081B1001D2007A826C /* Blitzcrank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Blitzcrank.jpg; sourceTree = "<group>"; };
+		68B457091B1001D2007A826C /* Brand.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Brand.jpg; sourceTree = "<group>"; };
+		68B4570A1B1001D2007A826C /* Braum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Braum.jpg; sourceTree = "<group>"; };
+		68B4570B1B1001D2007A826C /* Caitlyn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Caitlyn.jpg; sourceTree = "<group>"; };
+		68B4570C1B1001D2007A826C /* Cassiopeia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cassiopeia.jpg; sourceTree = "<group>"; };
+		68B4570D1B1001D2007A826C /* Cho'Gath.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cho'Gath.jpg"; sourceTree = "<group>"; };
+		68B4570E1B1001D2007A826C /* Corki.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Corki.jpg; sourceTree = "<group>"; };
+		68B4570F1B1001D2007A826C /* Darius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Darius.jpg; sourceTree = "<group>"; };
+		68B457101B1001D2007A826C /* Diana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Diana.jpg; sourceTree = "<group>"; };
+		68B457111B1001D2007A826C /* Dr.Mundo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dr.Mundo.jpg; sourceTree = "<group>"; };
+		68B457121B1001D2007A826C /* Draven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Draven.jpg; sourceTree = "<group>"; };
+		68B457131B1001D2007A826C /* Elise.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Elise.jpg; sourceTree = "<group>"; };
+		68B457141B1001D2007A826C /* Evelynn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Evelynn.jpg; sourceTree = "<group>"; };
+		68B457151B1001D2007A826C /* Ezreal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ezreal.jpg; sourceTree = "<group>"; };
+		68B457161B1001D2007A826C /* Fiddlesticks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fiddlesticks.jpg; sourceTree = "<group>"; };
+		68B457171B1001D2007A826C /* Fiora.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fiora.jpg; sourceTree = "<group>"; };
+		68B457181B1001D2007A826C /* Fizz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fizz.jpg; sourceTree = "<group>"; };
+		68B457191B1001D2007A826C /* Galio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Galio.jpg; sourceTree = "<group>"; };
+		68B4571A1B1001D2007A826C /* Gangplank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Gangplank.jpg; sourceTree = "<group>"; };
+		68B4571B1B1001D2007A826C /* Garen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Garen.jpg; sourceTree = "<group>"; };
+		68B4573A1B10025C007A826C /* Gargas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Gargas.jpg; sourceTree = "<group>"; };
+		68B4573B1B10025C007A826C /* Gnar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Gnar.jpg; sourceTree = "<group>"; };
+		68B4573C1B10025C007A826C /* Graves.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Graves.jpg; sourceTree = "<group>"; };
+		68B4573D1B10025C007A826C /* Hecarim.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hecarim.jpg; sourceTree = "<group>"; };
+		68B4573E1B10025C007A826C /* Heimerdinger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Heimerdinger.jpg; sourceTree = "<group>"; };
+		68B4573F1B10025C007A826C /* Irelia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Irelia.jpg; sourceTree = "<group>"; };
+		68B457401B10025C007A826C /* Janna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Janna.jpg; sourceTree = "<group>"; };
+		68B457411B10025C007A826C /* Jarven IV.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jarven IV.jpg"; sourceTree = "<group>"; };
+		68B457421B10025C007A826C /* Jax.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jax.jpg; sourceTree = "<group>"; };
+		68B457431B10025C007A826C /* Jayce.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jayce.jpg; sourceTree = "<group>"; };
+		68B457441B10025C007A826C /* Jinx.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jinx.jpg; sourceTree = "<group>"; };
+		68B457451B10025C007A826C /* Kalista.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kalista.jpg; sourceTree = "<group>"; };
+		68B457461B10025C007A826C /* Karma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Karma.jpg; sourceTree = "<group>"; };
+		68B457471B10025C007A826C /* Karthus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Karthus.jpg; sourceTree = "<group>"; };
+		68B457481B10025C007A826C /* Kassadin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kassadin.jpg; sourceTree = "<group>"; };
+		68B457491B10025C007A826C /* Katarina.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Katarina.jpg; sourceTree = "<group>"; };
+		68B4574A1B10025C007A826C /* Kayle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kayle.jpg; sourceTree = "<group>"; };
+		68B4574B1B10025C007A826C /* Kennen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kennen.jpg; sourceTree = "<group>"; };
+		68B4574C1B10025C007A826C /* Kha'Zix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kha'Zix.jpg"; sourceTree = "<group>"; };
+		68B4574D1B10025C007A826C /* Kog'Maw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kog'Maw.jpg"; sourceTree = "<group>"; };
+		68B4574E1B10025C007A826C /* LeBlanc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LeBlanc.jpg; sourceTree = "<group>"; };
+		68B4574F1B10025C007A826C /* Lee Sin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lee Sin.jpg"; sourceTree = "<group>"; };
+		68B457501B10025C007A826C /* Leona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Leona.jpg; sourceTree = "<group>"; };
+		68B457511B10025C007A826C /* Lissandra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lissandra.jpg; sourceTree = "<group>"; };
+		68B457521B10025C007A826C /* Lucian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lucian.jpg; sourceTree = "<group>"; };
+		68B457531B10025C007A826C /* Lulu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lulu.jpg; sourceTree = "<group>"; };
+		68B457541B10025C007A826C /* Lux.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lux.jpg; sourceTree = "<group>"; };
+		68B457551B10025C007A826C /* Malphite.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Malphite.jpg; sourceTree = "<group>"; };
+		68B457561B10025C007A826C /* Malzahar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Malzahar.jpg; sourceTree = "<group>"; };
+		68B457741B100271007A826C /* Maokai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Maokai.jpg; sourceTree = "<group>"; };
+		68B457751B100271007A826C /* Master Yi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Master Yi.jpg"; sourceTree = "<group>"; };
+		68B457761B100271007A826C /* Miss Fortune.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Miss Fortune.jpg"; sourceTree = "<group>"; };
+		68B457771B100271007A826C /* Mordekaiser.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mordekaiser.jpg; sourceTree = "<group>"; };
+		68B457781B100271007A826C /* Morgana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Morgana.jpg; sourceTree = "<group>"; };
+		68B457791B100271007A826C /* Nami.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nami.jpg; sourceTree = "<group>"; };
+		68B4577A1B100271007A826C /* Nasus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nasus.jpg; sourceTree = "<group>"; };
+		68B4577B1B100271007A826C /* Nautilus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nautilus.jpg; sourceTree = "<group>"; };
+		68B4577C1B100271007A826C /* Nidalee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nidalee.jpg; sourceTree = "<group>"; };
+		68B4577D1B100271007A826C /* Nocturne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nocturne.jpg; sourceTree = "<group>"; };
+		68B4577E1B100271007A826C /* Nunu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nunu.jpg; sourceTree = "<group>"; };
+		68B4577F1B100271007A826C /* Olaf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Olaf.jpg; sourceTree = "<group>"; };
+		68B457801B100271007A826C /* Orianna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Orianna.jpg; sourceTree = "<group>"; };
+		68B457811B100271007A826C /* Patheon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Patheon.jpg; sourceTree = "<group>"; };
+		68B457821B100271007A826C /* Poppy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Poppy.jpg; sourceTree = "<group>"; };
+		68B457831B100271007A826C /* Quinn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Quinn.jpg; sourceTree = "<group>"; };
+		68B457841B100271007A826C /* Rammus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rammus.jpg; sourceTree = "<group>"; };
+		68B457851B100271007A826C /* Rek'Sai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rek'Sai.jpg"; sourceTree = "<group>"; };
+		68B457861B100271007A826C /* Renekton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Renekton.jpg; sourceTree = "<group>"; };
+		68B457871B100271007A826C /* Rengar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rengar.jpg; sourceTree = "<group>"; };
+		68B457881B100271007A826C /* Riven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Riven.jpg; sourceTree = "<group>"; };
+		68B457891B100271007A826C /* Rumble.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rumble.jpg; sourceTree = "<group>"; };
+		68B4578A1B100271007A826C /* Ryze.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ryze.jpg; sourceTree = "<group>"; };
+		68B4578B1B100271007A826C /* Sejuani.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sejuani.jpg; sourceTree = "<group>"; };
+		68B4578C1B100271007A826C /* Shaco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shaco.jpg; sourceTree = "<group>"; };
+		68B4578D1B100271007A826C /* Shen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shen.jpg; sourceTree = "<group>"; };
+		68B4578E1B100271007A826C /* Shyvana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shyvana.jpg; sourceTree = "<group>"; };
+		68B4578F1B100271007A826C /* Singed.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Singed.jpg; sourceTree = "<group>"; };
+		68B457901B100271007A826C /* Sion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sion.jpg; sourceTree = "<group>"; };
+		68B457AE1B100287007A826C /* Sivir.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sivir.jpg; sourceTree = "<group>"; };
+		68B457AF1B100287007A826C /* Skamer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Skamer.jpg; sourceTree = "<group>"; };
+		68B457B01B100287007A826C /* Sona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sona.jpg; sourceTree = "<group>"; };
+		68B457B11B100287007A826C /* Soraka.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Soraka.jpg; sourceTree = "<group>"; };
+		68B457B21B100287007A826C /* Swain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Swain.jpg; sourceTree = "<group>"; };
+		68B457B31B100287007A826C /* Syndra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Syndra.jpg; sourceTree = "<group>"; };
+		68B457B41B100287007A826C /* Talon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Talon.jpg; sourceTree = "<group>"; };
+		68B457B51B100287007A826C /* Taric.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Taric.jpg; sourceTree = "<group>"; };
+		68B457B61B100287007A826C /* Teemo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Teemo.jpg; sourceTree = "<group>"; };
+		68B457B71B100287007A826C /* Thresh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thresh.jpg; sourceTree = "<group>"; };
+		68B457B81B100287007A826C /* Trstana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Trstana.jpg; sourceTree = "<group>"; };
+		68B457B91B100287007A826C /* Trundle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Trundle.jpg; sourceTree = "<group>"; };
+		68B457BA1B100287007A826C /* Twisted Fate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Twisted Fate.jpg"; sourceTree = "<group>"; };
+		68B457BB1B100287007A826C /* Twitch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Twitch.jpg; sourceTree = "<group>"; };
+		68B457BC1B100287007A826C /* Tydamere.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tydamere.jpg; sourceTree = "<group>"; };
+		68B457BD1B100287007A826C /* Udyr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Udyr.jpg; sourceTree = "<group>"; };
+		68B457BE1B100287007A826C /* Urgot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Urgot.jpg; sourceTree = "<group>"; };
+		68B457BF1B100287007A826C /* Varus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Varus.jpg; sourceTree = "<group>"; };
+		68B457C01B100287007A826C /* Vayne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Vayne.jpg; sourceTree = "<group>"; };
+		68B457C11B100287007A826C /* Veigar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Veigar.jpg; sourceTree = "<group>"; };
+		68B457C21B100287007A826C /* Vel'Koz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Vel'Koz.jpg"; sourceTree = "<group>"; };
+		68B457C31B100287007A826C /* Vi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Vi.jpg; sourceTree = "<group>"; };
+		68B457C41B100287007A826C /* Viktor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Viktor.jpg; sourceTree = "<group>"; };
+		68B457C51B100287007A826C /* Vladimir.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Vladimir.jpg; sourceTree = "<group>"; };
+		68B457C61B100287007A826C /* Volibear.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Volibear.jpg; sourceTree = "<group>"; };
+		68B457C71B100287007A826C /* Warwick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Warwick.jpg; sourceTree = "<group>"; };
+		68B457C81B100287007A826C /* Wukong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wukong.jpg; sourceTree = "<group>"; };
+		68B457C91B100287007A826C /* Xerath.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Xerath.jpg; sourceTree = "<group>"; };
+		68B457CA1B100287007A826C /* Xin Zhao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xin Zhao.jpg"; sourceTree = "<group>"; };
+		68B457CB1B100287007A826C /* Yasuo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Yasuo.jpg; sourceTree = "<group>"; };
+		68B457CC1B100287007A826C /* Yorick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Yorick.jpg; sourceTree = "<group>"; };
+		68B457CD1B100287007A826C /* Zac.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zac.jpg; sourceTree = "<group>"; };
+		68B457CE1B100287007A826C /* Zed.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zed.jpg; sourceTree = "<group>"; };
+		68B457CF1B100287007A826C /* Ziggs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ziggs.jpg; sourceTree = "<group>"; };
+		68B457D01B100287007A826C /* Zilean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zilean.jpg; sourceTree = "<group>"; };
+		68B457D11B100287007A826C /* Zyra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zyra.jpg; sourceTree = "<group>"; };
 		68F02B711B0FB7F400A24651 /* loldb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = loldb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68F02B751B0FB7F400A24651 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68F02B761B0FB7F400A24651 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -80,16 +318,6 @@
 		68F02BA91B0FB9AA00A24651 /* CustomCellBackground.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCellBackground.m; sourceTree = "<group>"; };
 		68F02BAA1B0FB9AA00A24651 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		68F02BAB1B0FB9AA00A24651 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
-		68F02BC11B0FBC4C00A24651 /* annie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = annie.jpg; sourceTree = "<group>"; };
-		68F02BC21B0FBC4C00A24651 /* braum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = braum.jpg; sourceTree = "<group>"; };
-		68F02BC31B0FBC4C00A24651 /* fiddlestick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fiddlestick.jpg; sourceTree = "<group>"; };
-		68F02BC41B0FBC4C00A24651 /* gangplank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gangplank.jpg; sourceTree = "<group>"; };
-		68F02BC51B0FBC4C00A24651 /* gargas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gargas.jpg; sourceTree = "<group>"; };
-		68F02BC61B0FBC4C00A24651 /* heimerdinger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = heimerdinger.jpg; sourceTree = "<group>"; };
-		68F02BC71B0FBC4C00A24651 /* nasus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nasus.jpg; sourceTree = "<group>"; };
-		68F02BC81B0FBC4C00A24651 /* nidalee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nidalee.jpg; sourceTree = "<group>"; };
-		68F02BC91B0FBC4C00A24651 /* udyr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = udyr.jpg; sourceTree = "<group>"; };
-		68F02BCA1B0FBC4C00A24651 /* xinzhao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xinzhao.jpg; sourceTree = "<group>"; };
 		68F02BD51B0FBC5400A24651 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		68F02BD61B0FBC5400A24651 /* Default-Landscape@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x.png"; sourceTree = "<group>"; };
 		68F02BD71B0FBC5400A24651 /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
@@ -218,6 +446,7 @@
 		68F02BC01B0FBC3200A24651 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				68F02CD51B0FFF6F00A24651 /* Champions */,
 				68F02BDF1B0FBC5F00A24651 /* scene1.png */,
 				68F02BE01B0FBC5F00A24651 /* scene2.png */,
 				68F02BE11B0FBC5F00A24651 /* scene3.png */,
@@ -226,18 +455,139 @@
 				68F02BD71B0FBC5400A24651 /* Default-Landscape@2x~ipad.png */,
 				68F02BD81B0FBC5400A24651 /* Default-Portrait@2x.png */,
 				68F02BD91B0FBC5400A24651 /* Default@2x.png */,
-				68F02BC11B0FBC4C00A24651 /* annie.jpg */,
-				68F02BC21B0FBC4C00A24651 /* braum.jpg */,
-				68F02BC31B0FBC4C00A24651 /* fiddlestick.jpg */,
-				68F02BC41B0FBC4C00A24651 /* gangplank.jpg */,
-				68F02BC51B0FBC4C00A24651 /* gargas.jpg */,
-				68F02BC61B0FBC4C00A24651 /* heimerdinger.jpg */,
-				68F02BC71B0FBC4C00A24651 /* nasus.jpg */,
-				68F02BC81B0FBC4C00A24651 /* nidalee.jpg */,
-				68F02BC91B0FBC4C00A24651 /* udyr.jpg */,
-				68F02BCA1B0FBC4C00A24651 /* xinzhao.jpg */,
 			);
 			name = images;
+			sourceTree = "<group>";
+		};
+		68F02CD51B0FFF6F00A24651 /* Champions */ = {
+			isa = PBXGroup;
+			children = (
+				68B456FE1B1001D2007A826C /* Aatrox.jpg */,
+				68B456FF1B1001D2007A826C /* Ahri.jpg */,
+				68B457001B1001D2007A826C /* Akali.jpg */,
+				68B457011B1001D2007A826C /* Alistar.jpg */,
+				68B457021B1001D2007A826C /* Amumu.jpg */,
+				68B457031B1001D2007A826C /* Anivia.jpg */,
+				68B457041B1001D2007A826C /* Annie.jpg */,
+				68B457051B1001D2007A826C /* Ashe.jpg */,
+				68B457061B1001D2007A826C /* Azir.jpg */,
+				68B457071B1001D2007A826C /* Bard.jpg */,
+				68B457081B1001D2007A826C /* Blitzcrank.jpg */,
+				68B457091B1001D2007A826C /* Brand.jpg */,
+				68B4570A1B1001D2007A826C /* Braum.jpg */,
+				68B4570B1B1001D2007A826C /* Caitlyn.jpg */,
+				68B4570C1B1001D2007A826C /* Cassiopeia.jpg */,
+				68B4570D1B1001D2007A826C /* Cho'Gath.jpg */,
+				68B4570E1B1001D2007A826C /* Corki.jpg */,
+				68B4570F1B1001D2007A826C /* Darius.jpg */,
+				68B457101B1001D2007A826C /* Diana.jpg */,
+				68B457111B1001D2007A826C /* Dr.Mundo.jpg */,
+				68B457121B1001D2007A826C /* Draven.jpg */,
+				68B457131B1001D2007A826C /* Elise.jpg */,
+				68B457141B1001D2007A826C /* Evelynn.jpg */,
+				68B457151B1001D2007A826C /* Ezreal.jpg */,
+				68B457161B1001D2007A826C /* Fiddlesticks.jpg */,
+				68B457171B1001D2007A826C /* Fiora.jpg */,
+				68B457181B1001D2007A826C /* Fizz.jpg */,
+				68B457191B1001D2007A826C /* Galio.jpg */,
+				68B4571A1B1001D2007A826C /* Gangplank.jpg */,
+				68B4571B1B1001D2007A826C /* Garen.jpg */,
+				68B4573A1B10025C007A826C /* Gargas.jpg */,
+				68B4573B1B10025C007A826C /* Gnar.jpg */,
+				68B4573C1B10025C007A826C /* Graves.jpg */,
+				68B4573D1B10025C007A826C /* Hecarim.jpg */,
+				68B4573E1B10025C007A826C /* Heimerdinger.jpg */,
+				68B4573F1B10025C007A826C /* Irelia.jpg */,
+				68B457401B10025C007A826C /* Janna.jpg */,
+				68B457411B10025C007A826C /* Jarven IV.jpg */,
+				68B457421B10025C007A826C /* Jax.jpg */,
+				68B457431B10025C007A826C /* Jayce.jpg */,
+				68B457441B10025C007A826C /* Jinx.jpg */,
+				68B457451B10025C007A826C /* Kalista.jpg */,
+				68B457461B10025C007A826C /* Karma.jpg */,
+				68B457471B10025C007A826C /* Karthus.jpg */,
+				68B457481B10025C007A826C /* Kassadin.jpg */,
+				68B457491B10025C007A826C /* Katarina.jpg */,
+				68B4574A1B10025C007A826C /* Kayle.jpg */,
+				68B4574B1B10025C007A826C /* Kennen.jpg */,
+				68B4574C1B10025C007A826C /* Kha'Zix.jpg */,
+				68B4574D1B10025C007A826C /* Kog'Maw.jpg */,
+				68B4574E1B10025C007A826C /* LeBlanc.jpg */,
+				68B4574F1B10025C007A826C /* Lee Sin.jpg */,
+				68B457501B10025C007A826C /* Leona.jpg */,
+				68B457511B10025C007A826C /* Lissandra.jpg */,
+				68B457521B10025C007A826C /* Lucian.jpg */,
+				68B457531B10025C007A826C /* Lulu.jpg */,
+				68B457541B10025C007A826C /* Lux.jpg */,
+				68B457551B10025C007A826C /* Malphite.jpg */,
+				68B457561B10025C007A826C /* Malzahar.jpg */,
+				68B457741B100271007A826C /* Maokai.jpg */,
+				68B457751B100271007A826C /* Master Yi.jpg */,
+				68B457761B100271007A826C /* Miss Fortune.jpg */,
+				68B457771B100271007A826C /* Mordekaiser.jpg */,
+				68B457781B100271007A826C /* Morgana.jpg */,
+				68B457791B100271007A826C /* Nami.jpg */,
+				68B4577A1B100271007A826C /* Nasus.jpg */,
+				68B4577B1B100271007A826C /* Nautilus.jpg */,
+				68B4577C1B100271007A826C /* Nidalee.jpg */,
+				68B4577D1B100271007A826C /* Nocturne.jpg */,
+				68B4577E1B100271007A826C /* Nunu.jpg */,
+				68B4577F1B100271007A826C /* Olaf.jpg */,
+				68B457801B100271007A826C /* Orianna.jpg */,
+				68B457811B100271007A826C /* Patheon.jpg */,
+				68B457821B100271007A826C /* Poppy.jpg */,
+				68B457831B100271007A826C /* Quinn.jpg */,
+				68B457841B100271007A826C /* Rammus.jpg */,
+				68B457851B100271007A826C /* Rek'Sai.jpg */,
+				68B457861B100271007A826C /* Renekton.jpg */,
+				68B457871B100271007A826C /* Rengar.jpg */,
+				68B457881B100271007A826C /* Riven.jpg */,
+				68B457891B100271007A826C /* Rumble.jpg */,
+				68B4578A1B100271007A826C /* Ryze.jpg */,
+				68B4578B1B100271007A826C /* Sejuani.jpg */,
+				68B4578C1B100271007A826C /* Shaco.jpg */,
+				68B4578D1B100271007A826C /* Shen.jpg */,
+				68B4578E1B100271007A826C /* Shyvana.jpg */,
+				68B4578F1B100271007A826C /* Singed.jpg */,
+				68B457901B100271007A826C /* Sion.jpg */,
+				68B457AE1B100287007A826C /* Sivir.jpg */,
+				68B457AF1B100287007A826C /* Skamer.jpg */,
+				68B457B01B100287007A826C /* Sona.jpg */,
+				68B457B11B100287007A826C /* Soraka.jpg */,
+				68B457B21B100287007A826C /* Swain.jpg */,
+				68B457B31B100287007A826C /* Syndra.jpg */,
+				68B457B41B100287007A826C /* Talon.jpg */,
+				68B457B51B100287007A826C /* Taric.jpg */,
+				68B457B61B100287007A826C /* Teemo.jpg */,
+				68B457B71B100287007A826C /* Thresh.jpg */,
+				68B457B81B100287007A826C /* Trstana.jpg */,
+				68B457B91B100287007A826C /* Trundle.jpg */,
+				68B457BA1B100287007A826C /* Twisted Fate.jpg */,
+				68B457BB1B100287007A826C /* Twitch.jpg */,
+				68B457BC1B100287007A826C /* Tydamere.jpg */,
+				68B457BD1B100287007A826C /* Udyr.jpg */,
+				68B457BE1B100287007A826C /* Urgot.jpg */,
+				68B457BF1B100287007A826C /* Varus.jpg */,
+				68B457C01B100287007A826C /* Vayne.jpg */,
+				68B457C11B100287007A826C /* Veigar.jpg */,
+				68B457C21B100287007A826C /* Vel'Koz.jpg */,
+				68B457C31B100287007A826C /* Vi.jpg */,
+				68B457C41B100287007A826C /* Viktor.jpg */,
+				68B457C51B100287007A826C /* Vladimir.jpg */,
+				68B457C61B100287007A826C /* Volibear.jpg */,
+				68B457C71B100287007A826C /* Warwick.jpg */,
+				68B457C81B100287007A826C /* Wukong.jpg */,
+				68B457C91B100287007A826C /* Xerath.jpg */,
+				68B457CA1B100287007A826C /* Xin Zhao.jpg */,
+				68B457CB1B100287007A826C /* Yasuo.jpg */,
+				68B457CC1B100287007A826C /* Yorick.jpg */,
+				68B457CD1B100287007A826C /* Zac.jpg */,
+				68B457CE1B100287007A826C /* Zed.jpg */,
+				68B457CF1B100287007A826C /* Ziggs.jpg */,
+				68B457D01B100287007A826C /* Zilean.jpg */,
+				68B457D11B100287007A826C /* Zyra.jpg */,
+			);
+			name = Champions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -320,28 +670,142 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				68F02BD01B0FBC4C00A24651 /* heimerdinger.jpg in Resources */,
-				68F02BCF1B0FBC4C00A24651 /* gargas.jpg in Resources */,
+				68B457AA1B100271007A826C /* Shen.jpg in Resources */,
+				68B4572B1B1001D2007A826C /* Cho'Gath.jpg in Resources */,
+				68B457261B1001D2007A826C /* Blitzcrank.jpg in Resources */,
+				68B4579D1B100271007A826C /* Orianna.jpg in Resources */,
+				68B457661B10025C007A826C /* Katarina.jpg in Resources */,
+				68B457911B100271007A826C /* Maokai.jpg in Resources */,
+				68B4579E1B100271007A826C /* Patheon.jpg in Resources */,
+				68B457721B10025C007A826C /* Malphite.jpg in Resources */,
+				68B4572F1B1001D2007A826C /* Dr.Mundo.jpg in Resources */,
+				68B457681B10025C007A826C /* Kennen.jpg in Resources */,
 				68F02BDB1B0FBC5400A24651 /* Default-Landscape@2x.png in Resources */,
+				68B457591B10025C007A826C /* Graves.jpg in Resources */,
+				68B4576E1B10025C007A826C /* Lissandra.jpg in Resources */,
+				68B457A01B100271007A826C /* Quinn.jpg in Resources */,
+				68B457D31B100287007A826C /* Skamer.jpg in Resources */,
+				68B457EF1B100287007A826C /* Yasuo.jpg in Resources */,
+				68B4575E1B10025C007A826C /* Jarven IV.jpg in Resources */,
+				68B457951B100271007A826C /* Morgana.jpg in Resources */,
+				68B457DA1B100287007A826C /* Teemo.jpg in Resources */,
 				68F02BDD1B0FBC5400A24651 /* Default-Portrait@2x.png in Resources */,
+				68B457621B10025C007A826C /* Kalista.jpg in Resources */,
+				68B457971B100271007A826C /* Nasus.jpg in Resources */,
+				68B4572E1B1001D2007A826C /* Diana.jpg in Resources */,
+				68B457F21B100287007A826C /* Zed.jpg in Resources */,
 				68F02BDC1B0FBC5400A24651 /* Default-Landscape@2x~ipad.png in Resources */,
-				68F02BCD1B0FBC4C00A24651 /* fiddlestick.jpg in Resources */,
-				68F02BD41B0FBC4C00A24651 /* xinzhao.jpg in Resources */,
-				68F02BCB1B0FBC4C00A24651 /* annie.jpg in Resources */,
-				68F02BD21B0FBC4C00A24651 /* nidalee.jpg in Resources */,
+				68B457E91B100287007A826C /* Vladimir.jpg in Resources */,
+				68B457E11B100287007A826C /* Udyr.jpg in Resources */,
+				68B4575F1B10025C007A826C /* Jax.jpg in Resources */,
+				68B457A81B100271007A826C /* Sejuani.jpg in Resources */,
+				68B457291B1001D2007A826C /* Caitlyn.jpg in Resources */,
+				68B457331B1001D2007A826C /* Ezreal.jpg in Resources */,
+				68B457D71B100287007A826C /* Syndra.jpg in Resources */,
+				68B457EE1B100287007A826C /* Xin Zhao.jpg in Resources */,
+				68B457E31B100287007A826C /* Varus.jpg in Resources */,
+				68B457961B100271007A826C /* Nami.jpg in Resources */,
+				68B457351B1001D2007A826C /* Fiora.jpg in Resources */,
+				68B4572A1B1001D2007A826C /* Cassiopeia.jpg in Resources */,
+				68B457DE1B100287007A826C /* Twisted Fate.jpg in Resources */,
+				68B457301B1001D2007A826C /* Draven.jpg in Resources */,
+				68B4575A1B10025C007A826C /* Hecarim.jpg in Resources */,
+				68B4576A1B10025C007A826C /* Kog'Maw.jpg in Resources */,
+				68B457D21B100287007A826C /* Sivir.jpg in Resources */,
+				68B457A21B100271007A826C /* Rek'Sai.jpg in Resources */,
+				68B457AD1B100271007A826C /* Sion.jpg in Resources */,
+				68B457601B10025C007A826C /* Jayce.jpg in Resources */,
+				68B457221B1001D2007A826C /* Annie.jpg in Resources */,
+				68B4575C1B10025C007A826C /* Irelia.jpg in Resources */,
+				68B457E41B100287007A826C /* Vayne.jpg in Resources */,
+				68B457641B10025C007A826C /* Karthus.jpg in Resources */,
+				68B457731B10025C007A826C /* Malzahar.jpg in Resources */,
+				68B4571D1B1001D2007A826C /* Ahri.jpg in Resources */,
+				68B457E51B100287007A826C /* Veigar.jpg in Resources */,
+				68B457311B1001D2007A826C /* Elise.jpg in Resources */,
+				68B457A91B100271007A826C /* Shaco.jpg in Resources */,
+				68B457E01B100287007A826C /* Tydamere.jpg in Resources */,
+				68B4576C1B10025C007A826C /* Lee Sin.jpg in Resources */,
+				68B457E71B100287007A826C /* Vi.jpg in Resources */,
+				68B457981B100271007A826C /* Nautilus.jpg in Resources */,
+				68B457DF1B100287007A826C /* Twitch.jpg in Resources */,
+				68B457651B10025C007A826C /* Kassadin.jpg in Resources */,
 				68F02B831B0FB7F400A24651 /* Main.storyboard in Resources */,
-				68F02BD11B0FBC4C00A24651 /* nasus.jpg in Resources */,
+				68B457F51B100287007A826C /* Zyra.jpg in Resources */,
+				68B4572C1B1001D2007A826C /* Corki.jpg in Resources */,
+				68B457321B1001D2007A826C /* Evelynn.jpg in Resources */,
+				68B457251B1001D2007A826C /* Bard.jpg in Resources */,
+				68B457D91B100287007A826C /* Taric.jpg in Resources */,
+				68B457DC1B100287007A826C /* Trstana.jpg in Resources */,
+				68B457D51B100287007A826C /* Soraka.jpg in Resources */,
+				68B457611B10025C007A826C /* Jinx.jpg in Resources */,
 				68F02BDA1B0FBC5400A24651 /* Default-568h@2x.png in Resources */,
+				68B457381B1001D2007A826C /* Gangplank.jpg in Resources */,
+				68B457A71B100271007A826C /* Ryze.jpg in Resources */,
+				68B457A11B100271007A826C /* Rammus.jpg in Resources */,
 				68F02BE21B0FBC5F00A24651 /* scene1.png in Resources */,
+				68B4579F1B100271007A826C /* Poppy.jpg in Resources */,
+				68B457991B100271007A826C /* Nidalee.jpg in Resources */,
 				68F02B881B0FB7F400A24651 /* LaunchScreen.xib in Resources */,
+				68B457DB1B100287007A826C /* Thresh.jpg in Resources */,
+				68B457391B1001D2007A826C /* Garen.jpg in Resources */,
 				68F02B851B0FB7F400A24651 /* Images.xcassets in Resources */,
-				68F02BD31B0FBC4C00A24651 /* udyr.jpg in Resources */,
+				68B457671B10025C007A826C /* Kayle.jpg in Resources */,
+				68B457931B100271007A826C /* Miss Fortune.jpg in Resources */,
+				68B457AC1B100271007A826C /* Singed.jpg in Resources */,
+				68B457EA1B100287007A826C /* Volibear.jpg in Resources */,
+				68B4576D1B10025C007A826C /* Leona.jpg in Resources */,
+				68B457A31B100271007A826C /* Renekton.jpg in Resources */,
+				68B4571E1B1001D2007A826C /* Akali.jpg in Resources */,
+				68B457571B10025C007A826C /* Gargas.jpg in Resources */,
+				68B457AB1B100271007A826C /* Shyvana.jpg in Resources */,
+				68B457F31B100287007A826C /* Ziggs.jpg in Resources */,
+				68B457D41B100287007A826C /* Sona.jpg in Resources */,
+				68B457EC1B100287007A826C /* Wukong.jpg in Resources */,
+				68B4571F1B1001D2007A826C /* Alistar.jpg in Resources */,
+				68B457E81B100287007A826C /* Viktor.jpg in Resources */,
+				68B457231B1001D2007A826C /* Ashe.jpg in Resources */,
+				68B457271B1001D2007A826C /* Brand.jpg in Resources */,
+				68B457211B1001D2007A826C /* Anivia.jpg in Resources */,
+				68B457941B100271007A826C /* Mordekaiser.jpg in Resources */,
+				68B457371B1001D2007A826C /* Galio.jpg in Resources */,
+				68B457921B100271007A826C /* Master Yi.jpg in Resources */,
+				68B4572D1B1001D2007A826C /* Darius.jpg in Resources */,
+				68B457D81B100287007A826C /* Talon.jpg in Resources */,
+				68B457F01B100287007A826C /* Yorick.jpg in Resources */,
+				68B457361B1001D2007A826C /* Fizz.jpg in Resources */,
+				68B457281B1001D2007A826C /* Braum.jpg in Resources */,
+				68B457691B10025C007A826C /* Kha'Zix.jpg in Resources */,
+				68B457F41B100287007A826C /* Zilean.jpg in Resources */,
+				68B457DD1B100287007A826C /* Trundle.jpg in Resources */,
+				68B457ED1B100287007A826C /* Xerath.jpg in Resources */,
+				68B457631B10025C007A826C /* Karma.jpg in Resources */,
+				68B457E21B100287007A826C /* Urgot.jpg in Resources */,
+				68B4579B1B100271007A826C /* Nunu.jpg in Resources */,
+				68B457F11B100287007A826C /* Zac.jpg in Resources */,
+				68B457581B10025C007A826C /* Gnar.jpg in Resources */,
+				68B457241B1001D2007A826C /* Azir.jpg in Resources */,
+				68B457D61B100287007A826C /* Swain.jpg in Resources */,
+				68B4579A1B100271007A826C /* Nocturne.jpg in Resources */,
+				68B4575B1B10025C007A826C /* Heimerdinger.jpg in Resources */,
 				68F02BB21B0FB9AA00A24651 /* CollectionView-Info.plist in Resources */,
 				68F02BE31B0FBC5F00A24651 /* scene2.png in Resources */,
+				68B457E61B100287007A826C /* Vel'Koz.jpg in Resources */,
+				68B457A61B100271007A826C /* Rumble.jpg in Resources */,
 				68F02BDE1B0FBC5400A24651 /* Default@2x.png in Resources */,
-				68F02BCC1B0FBC4C00A24651 /* braum.jpg in Resources */,
+				68B4571C1B1001D2007A826C /* Aatrox.jpg in Resources */,
+				68B457201B1001D2007A826C /* Amumu.jpg in Resources */,
+				68B4576F1B10025C007A826C /* Lucian.jpg in Resources */,
+				68B457711B10025C007A826C /* Lux.jpg in Resources */,
+				68B457A51B100271007A826C /* Riven.jpg in Resources */,
+				68B457341B1001D2007A826C /* Fiddlesticks.jpg in Resources */,
+				68B4576B1B10025C007A826C /* LeBlanc.jpg in Resources */,
+				68B457701B10025C007A826C /* Lulu.jpg in Resources */,
+				68B4575D1B10025C007A826C /* Janna.jpg in Resources */,
+				68B457A41B100271007A826C /* Rengar.jpg in Resources */,
 				68F02BE41B0FBC5F00A24651 /* scene3.png in Resources */,
-				68F02BCE1B0FBC4C00A24651 /* gangplank.jpg in Resources */,
+				68B457EB1B100287007A826C /* Warwick.jpg in Resources */,
+				68B4579C1B100271007A826C /* Olaf.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -566,6 +1030,7 @@
 				68F02B991B0FB7F500A24651 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68F02B9A1B0FB7F500A24651 /* Build configuration list for PBXNativeTarget "loldbTests" */ = {
 			isa = XCConfigurationList;
@@ -574,6 +1039,7 @@
 				68F02B9C1B0FB7F500A24651 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

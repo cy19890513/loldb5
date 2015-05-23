@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>73FFC478-58FA-4F74-8DBB-C2C94D820AE5</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>loldb</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0C31248217BB6E5A0AA60D4837274AE4BB568A07</key>
 		<string>http://github.com/cy19890513/loldb5.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>loldb.xcodeproj/project.xcworkspace</string>
+	<string>loldb.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0C31248217BB6E5A0AA60D4837274AE4BB568A07</key>

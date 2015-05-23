@@ -43,7 +43,7 @@
                                     <rect key="frame" x="0.0" y="0.0" width="95" height="93"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9KT-Ba-NzI">
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="9KT-Ba-NzI">
                                             <rect key="frame" x="14" y="75" width="71" height="18"/>
                                             <constraints>
                                                 <constraint firstAttribute="height" constant="18" id="0k0-NO-OL9"/>
@@ -353,7 +353,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ydw-5W-09z" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2170" y="1541"/>
+            <point key="canvasLocation" x="-2073" y="1220"/>
         </scene>
     </scenes>
     <resources>

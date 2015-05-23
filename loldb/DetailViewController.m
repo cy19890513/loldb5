@@ -75,20 +75,20 @@ NSMutableArray *goodAgainstChampions;
 
 -(void)viewDidLoad{
     badAgainstChampions = [[NSMutableArray alloc] init];
-    [badAgainstChampions addObject:@"annie"];
-    [badAgainstChampions addObject:@"braum"];
-    [badAgainstChampions addObject:@"fiddlestick"];
-    [badAgainstChampions addObject:@"gangplank"];
-    [badAgainstChampions addObject:@"gargas"];
-    [badAgainstChampions addObject:@"heimerdinger"];
+    [badAgainstChampions addObject:@"Annie"];
+    [badAgainstChampions addObject:@"Braum"];
+    [badAgainstChampions addObject:@"Fiddlesticks"];
+    [badAgainstChampions addObject:@"Gangplank"];
+    [badAgainstChampions addObject:@"Gargas"];
+    [badAgainstChampions addObject:@"Heimerdinger"];
     
     
     goodAgainstChampions = [[NSMutableArray alloc] init];
-    [goodAgainstChampions addObject:@"nidalee"];
-    [goodAgainstChampions addObject:@"xinzhao"];
-    [goodAgainstChampions addObject:@"heimerdinger"];
-    [goodAgainstChampions addObject:@"nasus"];
-    [goodAgainstChampions addObject:@"udyr"];
+    [goodAgainstChampions addObject:@"Nidalee"];
+    [goodAgainstChampions addObject:@"Xin Zhao"];
+    [goodAgainstChampions addObject:@"Heimerdinger"];
+    [goodAgainstChampions addObject:@"Nasus"];
+    [goodAgainstChampions addObject:@"Udyr"];
     
     
     

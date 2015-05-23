@@ -26,16 +26,16 @@ NSMutableArray *champions;
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     champions = [[NSMutableArray alloc] init];
-    [champions addObject:@"annie"];
-    [champions addObject:@"braum"];
-    [champions addObject:@"fiddlestick"];
-    [champions addObject:@"gangplank"];
-    [champions addObject:@"gargas"];
-    [champions addObject:@"heimerdinger"];
-    [champions addObject:@"nasus"];
-    [champions addObject:@"nidalee"];
-    [champions addObject:@"udyr"];
-    [champions addObject:@"xinzhao"];
+    [champions addObject:@"Annie"];
+    [champions addObject:@"Braum"];
+    [champions addObject:@"Fiddlesticks"];
+    [champions addObject:@"Gangplank"];
+    [champions addObject:@"Gargas"];
+    [champions addObject:@"Heimerdinger"];
+    [champions addObject:@"Nasus"];
+    [champions addObject:@"Nidalee"];
+    [champions addObject:@"Udyr"];
+    [champions addObject:@"Xin Zhao"];
     
 }
 
