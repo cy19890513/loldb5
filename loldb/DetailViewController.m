@@ -66,7 +66,7 @@ NSMutableArray *goodAgainstChampions;
 {
     [super viewWillAppear:animated];
     self.imageView.image = self.image;
-    self.label.text = self.name;
+    self.label.text = (NSString *)self.name;
     
     [self viewDidLoad ];
     
@@ -187,7 +187,7 @@ NSMutableArray *goodAgainstChampions;
         
         DetailViewController *detailViewController = [segue destinationViewController];
         detailViewController.image = image;
-        detailViewController.name=[badAgainstChampions objectAtIndex:selectedIndexPath.row];
+        detailViewController.name=[goodAgainstChampions objectAtIndex:selectedIndexPath.row];
     }
 
     

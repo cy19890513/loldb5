@@ -74,9 +74,9 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     MyTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"tableCell" forIndexPath:indexPath];
     
-    UIImageView *imageView = [self.view viewWithTag:201];
-    UILabel *nameLabel = [self.tableView viewWithTag:202];
-    UILabel *rateLabel = [self.tableView viewWithTag:203];
+    UIImageView *imageView = (UIImageView *)[self.view viewWithTag:201];
+    UILabel *nameLabel = (UILabel *)[self.tableView viewWithTag:202];
+    UILabel *rateLabel = (UILabel *)[self.tableView viewWithTag:203];
     
     nameLabel.text = [champions objectAtIndex:indexPath.row];
     rateLabel.text = [championsWinRate objectAtIndex:indexPath.row];
