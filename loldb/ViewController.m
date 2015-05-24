@@ -25,17 +25,26 @@ NSMutableArray *champions;
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    champions = [[NSMutableArray alloc] init];
-    [champions addObject:@"Annie"];
-    [champions addObject:@"Braum"];
-    [champions addObject:@"Fiddlesticks"];
-    [champions addObject:@"Gangplank"];
-    [champions addObject:@"Gargas"];
-    [champions addObject:@"Heimerdinger"];
-    [champions addObject:@"Nasus"];
-    [champions addObject:@"Nidalee"];
-    [champions addObject:@"Udyr"];
-    [champions addObject:@"Xin Zhao"];
+    champions = [[NSMutableArray alloc] initWithObjects:@"Aatrox",@"Ahri",@"Akali",@"Amumu",@"Anivia",@"Annie",@"Ashe",@"Azir",@"Bard",
+@"Blitzcrank",@"Brand",@"Braum",@"Caitlyn",@"Cassiopeia",@"Cho'Gath",@"Corki",@"Darius",@"Diana",@"Dr.Mundo",@"Draven",@"Elise",
+@"Evelynn",@"Ezreal",@"Fiddlesticks",@"Fiora",@"Fizz",@"Galio",@"Gangplank",@"Garen",@"Gnar",@"Gragas",@"Graves",@"Hecarim",@"Heimerdinger",
+@"Irelia",@"Janna",@"Jarven IV",@"Jax",@"Jayce",@"Jinx",@"Kalista",@"Karma",@"Karthus",@"Kassadin",@"Katarina",@"Kayle",@"Kennen",
+@"Kha'Zix",@"Kog'Maw",@"LeBlanc",@"Lee Sin",@"Leona",@"Lissandra",@"Lucian",@"Lulu",@"Lux",@"Malphite",@"Malzahar",@"Maokai",@"Master Yi",
+@"Miss Fortune",@"Mordekaiser",@"Morgana",@"Nami",@"Nasus",@"Nautilus",@"Nidalee",@"Nocturne",@"Nunu",@"Olaf",@"Orianna",@"Pantheon",
+@"Poppy",@"Quinn",@"Rammus",@"Rek'Sai",@"Renekton",@"Rengar",@"Riven",@"Rumble",@"Ryze",@"Sejuani",@"Shaco",@"Shen",@"Shyvana",@"Singed",
+@"Sion",@"Sivir",@"Skarner",@"Sona",@"Soraka",@"Swain",@"Syndra",@"Talon",@"Taric",@"Teemo",@"Thresh",@"Tristana",@"Trundle",@"Tryndamere",@"Twisted Fate",
+@"Twitch",@"Udyr",@"Urgot",@"Varus",@"Vayne",@"Veigar",@"Vel'Koz",@"Vi",@"Viktor",@"Vladimir",@"Volibear",@"Warwick",@"Wukong",@"Xerath",@"Xin Zhao",
+@"Yasuo",@"Yorick",@"Zac",@"Zed",@"Ziggs",@"Zilean",@"Zyra",nil];
+//    [champions addObject:@"Annie"];
+//    [champions addObject:@"Braum"];
+//    [champions addObject:@"Fiddlesticks"];
+//    [champions addObject:@"Gangplank"];
+//    [champions addObject:@"Gargas"];
+//    [champions addObject:@"Heimerdinger"];
+//    [champions addObject:@"Nasus"];
+//    [champions addObject:@"Nidalee"];
+//    [champions addObject:@"Udyr"];
+//    [champions addObject:@"Xin Zhao"];
     
 }
 
